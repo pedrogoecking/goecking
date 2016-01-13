@@ -1,3 +1,3 @@
 # goecking
 
-Just a simple repository to study.
+Just a simple repository for study.
