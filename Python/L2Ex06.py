@@ -1,3 +1,4 @@
+#author: Pedro Goecking
 #!-*- coding: utf8 -*-
 salario_hora = input("Salário por hora (R$): ")
 horas_mes = input("Horas trabalhadas no mês: ")

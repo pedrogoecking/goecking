@@ -1,3 +1,4 @@
+#author: Pedro Goecking
 #!-*- coding: utf8 -*-
 lado_a = input("Lado A: ")
 lado_b = input("Lado B: ")

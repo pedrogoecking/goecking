@@ -1,3 +1,4 @@
+#author: Pedro Goecking
 #!-*- coding: utf8 -*-
 km_rodados = input("Km rodados: ")
 dias = input("Dias de aluguel: ")

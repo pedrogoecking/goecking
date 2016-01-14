@@ -1,3 +1,4 @@
+#author: Pedro Goecking
 #!-*- coding: utf8 -*-
 metros_quadrados = input("Área (m²): ")
 def calculos(area):

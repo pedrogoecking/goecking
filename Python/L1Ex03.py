@@ -1,3 +1,4 @@
+#author: Pedro Goecking
 dias = input("Dias: ")
 horas = input("Horas: ")
 minutos = input("Minutos: ")

@@ -1,3 +1,4 @@
+#author: Pedro Goecking
 #!-*- coding: utf8 -*-
 distancia = input("Distância (km): ")
 velocidade_media = input("Velocidade média (km/h): ")

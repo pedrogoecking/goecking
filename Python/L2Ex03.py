@@ -1,3 +1,4 @@
+#author: Pedro Goecking
 #!-*- coding: utf8 -*-
 pesca = input("Pesca (kg): ")
 if pesca > 50:

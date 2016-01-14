@@ -1,3 +1,4 @@
+#author: Pedro Goecking
 #!-*- coding: utf8 -*-
 sal_antigo = input("Salário antigo: ")
 perc_aumento = input("Aumento (%): ")
